@@ -1,0 +1,124 @@
+h1
+{
+    font-family: "Garamond";
+    font-size: 150px;
+    color: white;
+    position: relative;
+    top: 390px;
+    left: 150px;
+}
+
+h2
+{
+    font-family: "Garamond";
+    font-size: 48px;
+    color: white;
+    position: relative;
+    top: 390px;
+    left: 150px;
+}
+
+body
+{
+    background-image: url('indexbg.png');
+    background-color:black;
+    background-repeat: no-repeat;
+    background-position: left top;
+    text-align: left;
+    color:white;
+    margin-bottom: 60px;
+
+}
+
+#main_menu
+{
+    text-align: left;
+    margin-top: -12px;
+    margin-left: -15px;
+    font-family: "Candara";
+}
+
+#menu_holder
+{
+   background-color: rgb(30,30,30);
+   height: 70px;
+   width: 100000px;
+   position: fixed;
+   margin-top: -2px;
+   top: 2px;
+   z-index: 3;
+}
+
+
+.first
+{
+    width:900px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 24px;
+    text-align: justify;
+    font-family: "Candara";
+}
+
+main
+{
+    width:900px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 24px;
+    text-align: justify;
+    font-family: "Candara";
+}
+
+.center
+{
+    margin-left: 120px;
+}
+
+#who
+{
+    width:648px;
+    height:800px;
+    margin-left:100px;
+    background-color: rgba(30, 30, 30, 0.8);
+}
+
+.bd-example
+{
+    width:850px;
+}
+
+#moments
+{
+    width:750px;
+    height:550px;
+    margin-left:100px;
+    background-color: rgba(30, 30, 30, 0.8);
+}
+
+.bestmoments
+{
+    width:945px;
+}
+
+.carousel video
+{
+    margin-left: 54px;
+    margin-top: 40px;
+}
+
+.carouselvideo2 {
+    display: block;
+    width: 640px;
+    height: 360px;
+    margin-left: 54px;
+    margin-top: 40px;
+}
+
+.carousel-caption
+{
+    position:relative;
+    top:0;
+    left:0;
+}
